@@ -1,3 +1,6 @@
+<a href="https://cooltext.com"><img src="https://images.cooltext.com/5466471.png" width="868" height="108" alt="BIENVENIDOS" /></a>
+<br />
+
 ### Hola a todos 👋
 
 Hola mi nombre es ✨**Jesus Xavier López Galaz**✨, soy estudiante de **Ingenieria en Sistemas Computacionales** del *Instituto Tecnologico de Tijuana*.
@@ -16,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
