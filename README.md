@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hola a todos 👋
 
+Hola mi nombre es ✨**Jesus Xavier López Galaz**✨, soy estudiante de **Ingenieria en Sistemas Computacionales** del *Instituto Tecnologico de Tijuana*.
+Me gustan las computadoras y seguir aprendiendo sobre la programación. Y en el futuro quiero desarrollar aplicaciones de calidad.
 <!--
-**LopezJesus/LopezJesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**LopezJesus/LopezJesus** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
