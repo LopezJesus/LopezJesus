@@ -3,7 +3,7 @@
 
 ### Hola a todos 👋
 
-Hola mi nombre es **Jesus Xavier López Galaz**, soy estudiante de **Ingenieria en Sistemas Computacionales** del *Instituto Tecnologico de Tijuana*.
+Hola mi nombre es **Jesus Xavier López Galaz**, estudie **Ingenieria en Sistemas Computacionales** del *Instituto Tecnologico de Tijuana*.
 Me gustan la programacion, la computación y siempre seguir mejorando dia a dia.Siempre buscando desarrollar aplicaciones de calidad.
 
 #### Contacto
